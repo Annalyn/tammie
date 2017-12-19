@@ -1,0 +1,4 @@
+name: tammie
+recipe: wordpress
+config:
+  webroot: .
